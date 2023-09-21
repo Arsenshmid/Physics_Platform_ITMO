@@ -1,0 +1,14 @@
+C:\Users\apce1\Desktop\Physics_Platform_ITMO\SolverCraft\SolverCraft\obj\Debug\SolverCraft.csproj.AssemblyReference.cache
+C:\Users\apce1\Desktop\Physics_Platform_ITMO\SolverCraft\SolverCraft\obj\Debug\SolverCraft.csproj.SuggestedBindingRedirects.cache
+C:\Users\apce1\Desktop\Physics_Platform_ITMO\SolverCraft\SolverCraft\obj\Debug\SolverCraft.Form1.resources
+C:\Users\apce1\Desktop\Physics_Platform_ITMO\SolverCraft\SolverCraft\obj\Debug\SolverCraft.FormCoffeeBrewing.resources
+C:\Users\apce1\Desktop\Physics_Platform_ITMO\SolverCraft\SolverCraft\obj\Debug\SolverCraft.FormDifferentialEquations.resources
+C:\Users\apce1\Desktop\Physics_Platform_ITMO\SolverCraft\SolverCraft\obj\Debug\SolverCraft.FormEntropyCalculation.resources
+C:\Users\apce1\Desktop\Physics_Platform_ITMO\SolverCraft\SolverCraft\obj\Debug\SolverCraft.Properties.Resources.resources
+C:\Users\apce1\Desktop\Physics_Platform_ITMO\SolverCraft\SolverCraft\obj\Debug\SolverCraft.csproj.GenerateResource.cache
+C:\Users\apce1\Desktop\Physics_Platform_ITMO\SolverCraft\SolverCraft\obj\Debug\SolverCraft.csproj.CoreCompileInputs.cache
+C:\Users\apce1\Desktop\Physics_Platform_ITMO\SolverCraft\SolverCraft\bin\Debug\SolverCraft.exe.config
+C:\Users\apce1\Desktop\Physics_Platform_ITMO\SolverCraft\SolverCraft\bin\Debug\SolverCraft.exe
+C:\Users\apce1\Desktop\Physics_Platform_ITMO\SolverCraft\SolverCraft\bin\Debug\SolverCraft.pdb
+C:\Users\apce1\Desktop\Physics_Platform_ITMO\SolverCraft\SolverCraft\obj\Debug\SolverCraft.exe
+C:\Users\apce1\Desktop\Physics_Platform_ITMO\SolverCraft\SolverCraft\obj\Debug\SolverCraft.pdb
